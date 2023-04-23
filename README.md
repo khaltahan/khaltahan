@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, SQL**
 
-- 📝 Technical interests **Cryptocurrency and Blockchain**
+- 📝 Technical interests **Machine Learning and AI**
 
 - ☕ Hobbies **Soccer, Swimming and Reading**
 
